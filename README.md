@@ -1,3 +1,3 @@
 # maximum-sub-sequence
 
-## Solution to the maximum-sub-sequence puzzle on codingame. Written in Javascript.
+## Javascript solution to the maximum-sub-sequence puzzle on codingame.
